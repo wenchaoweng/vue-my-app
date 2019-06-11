@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/my-project/',
+    publicPath: '/vue-my-app/',
     outputDir: 'docs',
     lintOnSave: true,
     runtimeCompiler: true, //关键点在这  原来的 Compiler 换成了 runtimeCompiler
