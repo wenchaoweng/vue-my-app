@@ -1,6 +1,6 @@
 module.exports = {
     publicPath: '/my-project/',
-    outputDir: 'dist',
+    outputDir: 'docs',
     lintOnSave: true,
     runtimeCompiler: true, //关键点在这  原来的 Compiler 换成了 runtimeCompiler
     // 调整内部的 webpack 配置。
